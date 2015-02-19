@@ -10,8 +10,6 @@ public class Category {
     /* Prevedmedved
     * Prevedmedved
     * Prevedmedved
-    * Prevedmedved
-    * Prevedmedved
     */
     public String categ_name    = "categ_name";
     public String categ_varname = "categ_varname";
