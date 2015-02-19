@@ -8,6 +8,7 @@ import java.util.ArrayList;
 public class Category {
     /*
     * New comment
+    * море цомментс
     */
 
     public String categ_name    = "categ_name";
