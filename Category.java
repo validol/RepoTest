@@ -6,11 +6,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 public class Category {
-
-    /* Prevedmedved
-    * Prevedmedved
-    * Prevedmedved
-    */
+    // new default editor
     public String categ_name    = "categ_name";
     public String categ_varname = "categ_varname";
     public String categ_count   = "categ_count";
