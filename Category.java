@@ -6,7 +6,9 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 public class Category {
-    // category class
+    /*
+    * New comment
+    */
 
     public String categ_name    = "categ_name";
     public String categ_varname = "categ_varname";
